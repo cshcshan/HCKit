@@ -1,0 +1,16 @@
+PODS:
+  - HCKit (0.1.0)
+
+DEPENDENCIES:
+  - HCKit (from `../`)
+
+EXTERNAL SOURCES:
+  HCKit:
+    :path: ../
+
+SPEC CHECKSUMS:
+  HCKit: a3b9e356365cb7dc11da2b438bb10e83188fdd0c
+
+PODFILE CHECKSUM: 0936a37043a2c25152dab5e7ba15eab195ba94bb
+
+COCOAPODS: 1.2.1

@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'HCKit_Example' do
+  pod 'HCKit', :path => '../'
+
+  target 'HCKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

@@ -17,12 +17,12 @@ HCKit is available through [CocoaPods](http://cocoapods.org). To install
 it, simply add the following line to your Podfile:
 
 ```ruby
-pod "HCKit"
+pod "SHCKit"
 ```
 
 ## Author
 
-Han, csh771355@gmail.com
+Han Chen, csh771355@gmail.com
 
 ## License
 
